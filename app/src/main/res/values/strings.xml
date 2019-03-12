@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="save">Save</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="camera">Camera</string>
+    <string name="history">history</string>
+    <string name="help">help</string>
+    <string name="textview">TextView</string>
+    <string name="Logout">Logout</string>
+</resources>
